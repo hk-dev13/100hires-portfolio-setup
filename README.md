@@ -46,14 +46,20 @@ Screenshot:
 
 ## Challenges & Solutions
 
-### Challenge 1 — Extension setup and authentication
+### Challenge 1 — Installing Cursor on Linux
+I am using a Linux environment and needed to ensure Cursor was installed correctly using the downloaded .deb package.
+
+**Solution:**
+I consulted with an AI assistant to verify the installation process and confirmed that I could simply double-click the .deb file to install it smoothly via the system's native package installer, without needing to run terminal commands.
+
+### Challenge 2 — Extension setup and authentication
 
 Some extensions required account authentication before becoming available.
 
 **Solution:**
 Followed the onboarding flow and completed authentication before proceeding.
 
-### Challenge 2 — Keeping the repository focused
+### Challenge 3 — Keeping the repository focused
 
 Initially considered adding unnecessary files and complexity.
 
