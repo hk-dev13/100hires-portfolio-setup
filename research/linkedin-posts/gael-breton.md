@@ -1,4 +1,4 @@
-# LinkedIn Posts: Matt Bowers
+# LinkedIn Posts: Gael Breton
 
 *Collection of LinkedIn posts related to AI-powered SEO content production.*
 

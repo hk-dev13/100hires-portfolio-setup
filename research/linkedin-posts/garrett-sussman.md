@@ -1,4 +1,4 @@
-# LinkedIn Posts: Authority Hacker
+# LinkedIn Posts: Garrett Sussman
 
 *Collection of LinkedIn posts related to AI-powered SEO content production.*
 
