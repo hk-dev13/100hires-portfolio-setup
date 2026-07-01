@@ -1,8 +1,8 @@
 # LinkedIn Posts: Kevin Indig
 
-*Kumpulan post LinkedIn terkait AI-powered SEO content production.*
+*Collection of LinkedIn posts related to AI-powered SEO content production.*
 
 ## Post 1
-- **Tanggal:** [Isi Tanggal]
-- **Link:** [Isi Link]
-- **Ringkasan/Insight:** [Isi Ringkasan]
+- **Date:** [Date]
+- **Link:** [Link]
+- **Summary/Insight:** [Summary]
