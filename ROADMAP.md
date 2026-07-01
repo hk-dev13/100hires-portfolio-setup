@@ -67,7 +67,7 @@ Status: In Progress
 
 Experts:
 
-- [ ] Michael King
+- [x] Michael King
 - [ ] Aleyda Solís
 - [ ] Lily Ray
 - [ ] Cyrus Shepard
@@ -89,9 +89,9 @@ For each expert:
 
 ---
 
-## Phase 4 — YouTube Research ⏳
+## Phase 4 — YouTube Research 🚧
 
-Status: Not Started
+Status: In Progress
 
 For each expert:
 
@@ -103,9 +103,9 @@ For each expert:
 
 ---
 
-## Phase 5 — Additional Resources ⏳
+## Phase 5 — Additional Resources 🚧
 
-Status: Not Started
+Status: In Progress
 
 Possible materials:
 
@@ -138,7 +138,7 @@ Tasks:
 
 Remaining:
 
-- [ ] research: add Michael King research
+- [x] research: add research materials for Michael King
 - [ ] research: add Aleyda Solís research
 - [ ] research: add Lily Ray research
 - [ ] research: add Cyrus Shepard research
