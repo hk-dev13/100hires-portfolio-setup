@@ -68,7 +68,7 @@ Status: In Progress
 Experts:
 
 - [x] Michael King
-- [ ] Aleyda Solís
+- [x] Aleyda Solís
 - [ ] Lily Ray
 - [ ] Cyrus Shepard
 - [ ] Britney Muller
@@ -139,7 +139,7 @@ Tasks:
 Remaining:
 
 - [x] research: add research materials for Michael King
-- [ ] research: add Aleyda Solís research
+- [x] research: add research materials for Aleyda Solís
 - [ ] research: add Lily Ray research
 - [ ] research: add Cyrus Shepard research
 - [ ] research: add Britney Muller research

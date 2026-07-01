@@ -12,4 +12,6 @@ This directory contains YouTube transcript research related to Michael King's wo
 
 ## Videos
 
-Videos and transcript analyses will be added as they are collected during this research project.
+- [Video 1: Beyond Local Episode 20: Interview with Mike King](file:///home/husni-kusuma/Documents/100hires-portfolio-setup/research/youtube-transcripts/michael-king/video-1-beyond-local.md)
+- [Video 2: The AI Search Strategy Program - iPullRank](file:///home/husni-kusuma/Documents/100hires-portfolio-setup/research/youtube-transcripts/michael-king/video-2-ai-search-pilot.md)
+- [Video 3: How to Win Visibility in AI Search: The AI Search Manual Walkthrough](file:///home/husni-kusuma/Documents/100hires-portfolio-setup/research/youtube-transcripts/michael-king/video-3-seo-is-deprecated.md)
