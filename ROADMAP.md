@@ -71,7 +71,7 @@ Experts:
 - [x] Aleyda Solís
 - [x] Lily Ray
 - [x] Cyrus Shepard
-- [ ] Britney Muller
+- [x] Britney Muller
 - [ ] Gael Breton
 - [ ] Ben Leonard
 - [ ] Kevin Indig
@@ -142,7 +142,7 @@ Remaining:
 - [x] research: add research materials for Aleyda Solís
 - [x] research: add research materials for Lily Ray
 - [x] research: add research materials for Cyrus Shepard
-- [ ] research: add Britney Muller research
+- [x] research: add research materials for Britney Muller
 - [ ] research: add Gael Breton research
 - [ ] research: add Ben Leonard research
 - [ ] research: add Kevin Indig research
