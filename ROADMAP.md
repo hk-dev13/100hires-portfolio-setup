@@ -26,7 +26,7 @@ Completed:
 
 ---
 
-# Stage 2 — Research Project 🚧
+# Stage 2 — Research Project
 
 ## Phase 1 — Repository Structure ✅
 
@@ -148,7 +148,7 @@ Remaining:
 - [x] research: add research materials for Kevin Indig
 - [x] research: add research materials for Ross Hudgens
 - [x] research: add research materials for Garrett Sussman
-- [ ] docs: update README for Stage 2
+- [x] docs: finalize README and project roadmap
 
 ---
 
@@ -162,5 +162,5 @@ Repository contains:
 - [x] LinkedIn research
 - [x] YouTube transcripts
 - [x] Other resources
-- [ ] Updated README
-- [ ] Final review
+- [x] Updated README
+- [x] Final review
