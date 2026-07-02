@@ -73,7 +73,7 @@ Experts:
 - [x] Cyrus Shepard
 - [x] Britney Muller
 - [x] Gael Breton
-- [ ] Ben Leonard
+- [x] Ben Leonard
 - [ ] Kevin Indig
 - [ ] Ross Hudgens
 - [ ] Garrett Sussman
@@ -144,7 +144,7 @@ Remaining:
 - [x] research: add research materials for Cyrus Shepard
 - [x] research: add research materials for Britney Muller
 - [x] research: add research materials for Gael Breton
-- [ ] research: add Ben Leonard research
+- [x] research: add research materials for Ben Leonard
 - [ ] research: add Kevin Indig research
 - [ ] research: add Ross Hudgens research
 - [ ] research: add Garrett Sussman research
