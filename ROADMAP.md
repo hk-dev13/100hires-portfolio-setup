@@ -69,7 +69,7 @@ Experts:
 
 - [x] Michael King
 - [x] Aleyda Solís
-- [ ] Lily Ray
+- [x] Lily Ray
 - [ ] Cyrus Shepard
 - [ ] Britney Muller
 - [ ] Gael Breton
@@ -140,7 +140,7 @@ Remaining:
 
 - [x] research: add research materials for Michael King
 - [x] research: add research materials for Aleyda Solís
-- [ ] research: add Lily Ray research
+- [x] research: add research materials for Lily Ray
 - [ ] research: add Cyrus Shepard research
 - [ ] research: add Britney Muller research
 - [ ] research: add Gael Breton research

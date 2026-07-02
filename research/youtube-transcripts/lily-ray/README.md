@@ -10,4 +10,6 @@ This directory contains YouTube transcript research related to Lily Ray's work o
 
 ## Videos
 
-Videos and transcript analyses will be added as they are collected during this research project.
+- [Video 1: Search Engine Land 20 for 20 Interview with Lily Ray](video-1-seo-geo-together.md)
+- [Video 2: In-Person Interview with Lily Ray: Listicles, GEO Hacks, and Helpful Content Patterns](video-2-listicles-and-geo-hacks.md)
+- [Video 3: Muscles of Search: SEO vs. GEO, AI Slop, and Search Indexing with Lily Ray](video-3-seo-vs-geo-debate.md)
