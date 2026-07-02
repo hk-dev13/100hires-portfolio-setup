@@ -74,7 +74,7 @@ Experts:
 - [x] Britney Muller
 - [x] Gael Breton
 - [x] Ben Leonard
-- [ ] Kevin Indig
+- [x] Kevin Indig
 - [ ] Ross Hudgens
 - [ ] Garrett Sussman
 
@@ -145,7 +145,7 @@ Remaining:
 - [x] research: add research materials for Britney Muller
 - [x] research: add research materials for Gael Breton
 - [x] research: add research materials for Ben Leonard
-- [ ] research: add Kevin Indig research
+- [x] research: add research materials for Kevin Indig
 - [ ] research: add Ross Hudgens research
 - [ ] research: add Garrett Sussman research
 - [ ] docs: update README for Stage 2
