@@ -10,4 +10,6 @@ This directory contains YouTube transcript research related to Gael Breton's wor
 
 ## Videos
 
-Videos and transcript analyses will be added as they are collected during this research project.
+- [Video 1: Claude Code for Non Developers intro](video-1-claude-code-intro.md)
+- [Video 2: Koray Tugberk GUBUR interview with Gael Breton (Topical Authority and Beyond)](video-2-topical-authority.md)
+- [Video 3: AI Expert Exposes the OpenClaw & Moltbook Hype (Avoid This)](video-3-openclaw-moltbook-hype.md)

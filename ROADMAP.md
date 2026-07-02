@@ -72,7 +72,7 @@ Experts:
 - [x] Lily Ray
 - [x] Cyrus Shepard
 - [x] Britney Muller
-- [ ] Gael Breton
+- [x] Gael Breton
 - [ ] Ben Leonard
 - [ ] Kevin Indig
 - [ ] Ross Hudgens
@@ -143,7 +143,7 @@ Remaining:
 - [x] research: add research materials for Lily Ray
 - [x] research: add research materials for Cyrus Shepard
 - [x] research: add research materials for Britney Muller
-- [ ] research: add Gael Breton research
+- [x] research: add research materials for Gael Breton
 - [ ] research: add Ben Leonard research
 - [ ] research: add Kevin Indig research
 - [ ] research: add Ross Hudgens research
