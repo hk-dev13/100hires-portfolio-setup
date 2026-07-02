@@ -10,4 +10,6 @@ This directory contains YouTube transcript research related to Cyrus Shepard's w
 
 ## Videos
 
-Videos and transcript analyses will be added as they are collected during this research project.
+- [Video 1: Google Rankings Multiply AI Citations](video-1-google-rankings-multiply-citations.md)
+- [Video 2: SEO Isn't Dead, But It's Changing](video-2-seo-isnt-dead.md)
+- [Video 3: Traffic Recovery Is Often a Business Problem ft Cyrus Shepard (Adsy Talks ep. 10)](video-3-traffic-recovery.md)
