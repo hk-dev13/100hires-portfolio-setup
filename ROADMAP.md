@@ -75,7 +75,7 @@ Experts:
 - [x] Gael Breton
 - [x] Ben Leonard
 - [x] Kevin Indig
-- [ ] Ross Hudgens
+- [x] Ross Hudgens
 - [ ] Garrett Sussman
 
 For each expert:
@@ -146,7 +146,7 @@ Remaining:
 - [x] research: add research materials for Gael Breton
 - [x] research: add research materials for Ben Leonard
 - [x] research: add research materials for Kevin Indig
-- [ ] research: add Ross Hudgens research
+- [x] research: add research materials for Ross Hudgens
 - [ ] research: add Garrett Sussman research
 - [ ] docs: update README for Stage 2
 
